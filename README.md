@@ -9,3 +9,11 @@ Input:
  3) nbr of people attending
 
 Display the number of pieces that will be leftover.
+
+2 parts:
+ 1) Write the algorithm first. See directions in the "Algorithm" document.
+ 2) Write the JavaScript code.
+
+Remember to work with branches in Git, not directly in the Master!
+When you're all done, all of your changes (branches) should be merged
+back into Master on Github Classroom.
