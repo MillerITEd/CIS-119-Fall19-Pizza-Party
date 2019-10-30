@@ -4,8 +4,8 @@ You're planning a pizza party.
 Each person gets 3 slices.
 
 Input:
- 1) # of pizzas
- 2) # of slices per pizza
- 3) # of people attending
+ 1) nbr of pizzas
+ 2) nbr of slices per pizza
+ 3) nbr of people attending
 
 Display the number of pieces that will be leftover.
